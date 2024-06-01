@@ -77,10 +77,4 @@ Let's connect, collaborate, and together, we'll shape a future where the sky is 
         "Talk is CHEAP show me the CODE👨‍💻!"
     </p>
 </samp>
-<br>
-
-<h3  align="center">💻 Check Out My work ⬇️ </h3>
-<br>
-
-![](https://komarev.com/ghpvc/?username=akshkalyani&color=blue)
 # nipunchaurasia
