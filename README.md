@@ -3,7 +3,7 @@
 <hr>
 
 <img align="right" alt="GIF" height="200px" src="./bit.png" />
-My name is Aksh, currently a final year student pursuing Bachelors of Technology in Computer Science and Engineering. Currently, I am an enthusiastic developer exploring my pathways in the new technologies like, iOS Developmnent, MySQL, NOSQL, OOPs, ML, Augmented Reality and more. </br>
+My name is Nipun, currently a final year student pursuing Bachelors of Technology in Computer Science and Engineering. Currently, I am an enthusiastic developer exploring my pathways in the new technologies like, iOS Developmnent, MySQL, NOSQL, OOPs, ML, Augmented Reality and more. </br>
 
 - 🌱 I’m currently learning - Flutter, NodeJS
 - 👯 I’m looking to collaborate on - Development or Open source projects
