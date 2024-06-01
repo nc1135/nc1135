@@ -64,6 +64,8 @@ Let's connect, collaborate, and together, we'll shape a future where the sky is 
 <!--   <img align="center" width="420" src="https://github-readme-activity-graph.cyclic.app/graph?username=nc1135&theme=chartreuse-dark" alt="Stats" /> -->
 <!--    <img align="center" height="165em" width="420"src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/
   username=nc1135&theme=merko&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,c,java" /> -->
+  <img align="center" height="300" width="420" src="https://github-readme-stats.vercel.app/api?username=nc1135&show_icons=true&theme=dark" alt="Stats" />
+  <img align="center" height="300" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=nc1135&theme=dark" alt="Stats" />
  
   
 </p>
