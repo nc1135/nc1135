@@ -66,6 +66,7 @@ Let's connect, collaborate, and together, we'll shape a future where the sky is 
   username=nc1135&theme=merko&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,c,java" /> -->
   <img align="center" height="300" width="420" src="https://github-readme-stats.vercel.app/api?username=nc1135&show_icons=true&theme=dark" alt="Stats" />
   <img align="center" height="300" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=nc1135&theme=dark" alt="Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshstar&show_icons=true&locale=en&layout=compact" alt="harshstar" />
  
   
 </p>
